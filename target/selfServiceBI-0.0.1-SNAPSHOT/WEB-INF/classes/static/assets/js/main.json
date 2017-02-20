@@ -1,0 +1,11 @@
+{"USER":[
+{"Login_Name" : "Priyanka",   "CIF" : "Email", "Login_Pwd" : 123},
+{ "Login_Name" : "John",   "CIF" : "Email", "Login_Pwd" : 123},
+{ "Login_Name" : "XYZ",   "CIF" : "Email", "Login_Pwd" : 123},
+{ "Login_Name" : "Pradip",   "CIF" : "Email", "Login_Pwd" : 123},
+{ "Login_Name" : "Vijaya",   "CIF" : "Email", "Login_Pwd" : 123}],
+ "Location":[
+	{"Loc_Name":"Pune","Loc_Id":"123","Country":"India"},
+	{"Loc_Name":"Nashik","Loc_Id":"123","Country":"India"},
+	{"Loc_Name":"Mumbai","Loc_Id":"123","Country":"India"},
+	{"Loc_Name":"Pune","Loc_Id":"123","Country":"India"}]}
